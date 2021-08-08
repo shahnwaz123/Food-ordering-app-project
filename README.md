@@ -1,1 +1,1 @@
-# Food-ordering-app-project
+# food-ordering-app
